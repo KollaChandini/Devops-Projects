@@ -1,10 +1,6 @@
 
-# DevOps Projects
 ## Project1: To run a simple website
 This project is about how to run a website on a Linux with Ubuntu, Vagrant and Apache HTTP Server.
-
-
-
 
 ## Prerequisites
 Before getting started, ensure you have the following prerequisites installed on your system:
